@@ -6,12 +6,12 @@ This notebook demonstrates how to increase the performance of a machine learning
 ### 1. Yeo-Johnson Transformation
 The Yeo-Johnson transformation is a power transformation technique that can be applied to both positive and negative data. It is defined as:
 
-![Alt text](images/yj.png)
+![tj.png](images/yj.png)
 
 ### 2. Box-Cox Transformation
 The Box-Cox transformation is another power transformation technique but it can only be applied to positive data. It is defined as:
 
-![Alt text](images/boxCox.png)
+![boxCox.png](images/boxCox.png)
 
 ## Observations
 
